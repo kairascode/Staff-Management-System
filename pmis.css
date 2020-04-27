@@ -1,0 +1,17 @@
+
+#mwili{background-color:white;border:hidden;width:80%;padding:30px;margin-left:auto;margin-right:auto; position:relative;}
+h1{color:#341776}
+html { background: url(images/bp19.jpg) no-repeat center center fixed; -webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;
+}
+#foot{color:gold; font-style:bold;font-weight:bold;background-color:blue;font-family:calibri;height:100;margin-bottom:0}
+#form2{text-align:justify;color:gold;font-size:100%;font-weight:400;text-transform:uppercase;border-radius:40px;margin-left:auto;margin-right:auto;}
+ul{list-style-type:alphs;margin:0;padding:0;display:block;}
+li{display:inline}
+a:link{color:red;font-weight:bold;padding:6px;text-decoration:none;position:center-left;}
+a:hover{color:blue;background-color:yellow;border-radius:25px;}
+a:visited{color:;}
+table{background-color:white; color:red}
+#td{font-style:underline}
+custom-restricted-width {
+    display: inline-block;
+}

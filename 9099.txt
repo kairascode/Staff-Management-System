@@ -1,0 +1,19 @@
+<?php
+
+if(isset($_POST['pfno'])){(int)$pfno=mysql_escape_string($_POST['pfno']);}
+if(isset($_POST['tfrom'])){$tfrom=mysql_escape_string($_POST['tfrom']);}
+if(isset($_POST['leato'])){$leato=mysql_escape_string($_POST['leato']);}
+if(isset($_POST['appdate'])){$appdate=mysql_escape_string($_POST['appdate']);}
+if(isset($_POST['leavetyp'])){$leavetyp=mysql_escape_string($_POST['leavetyp']);}
+
+$nodays=DATEDIFF(day,$leato,$tfrom);
+
+ include("conn.php");
+ 
+$qry=mysql_query("INSERT INTO leave(pfno,typ,daystaken,entitled,bal,updtime)VALUES('$pfno','$leavetyp','$nodays','','')") or die(mysql_error($conn));
+ 
+ 
+   echo"ask";
+   
+   
+   ?>

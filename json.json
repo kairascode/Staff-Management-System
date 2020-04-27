@@ -1,0 +1,19 @@
+var myCat={
+"name":"meowsalot",
+"species":"cat",
+"favfood":"tuna"
+}
+
+var myPets=[{
+"name":"meowsalot",
+"species":"cat",
+"favfood":"tuna"
+},{
+"name":"morris",
+"species":"dog",
+"favfood":"natu"
+},{
+"name":"hoster",
+"species":"horse",
+"favfood":"tunat"
+}]

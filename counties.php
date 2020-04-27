@@ -1,0 +1,37 @@
+<?PHP echo"<option value=''></option>
+<option value='NAKURU'>NAKURU</option>
+<option value='BARINGO'>BARINGO</option>
+<option value='MERU'>MERU</option>
+<option value='THARAKA NITHI'>THARAKA NITHI</option>
+<option value='MURANGA'>MURANGA</option>
+<option value='KIAMBU'>KIAMBU</option>
+<option value='NAIROBI'>NAIROBI</option>
+<option value='LAIKIPIA'>LAIKIPIA</option>
+<option value='KISII'>KISII</option>
+<option value='NYAMIRA'>NYAMIRA</option>
+<option value='KERICHO'>KERICHO</option>
+<option value='BOMET'>BOMET</option>
+<option value='NAROK'>NAROK</option>
+<option value='ISIOLO'>ISIOLO</option>
+<option value='MAKUENI'>MAKUENI</option>
+<option value='KITUI'>KITUI</option>
+<option value='MACHAKOS'>MACHAKOS</option>
+<option value='NYERI'>NYERI</option>
+<option value='NANDI'>NANDI</option>
+<option value='SAMBURU'>SAMBURU</option>
+<option value='TURKANA'>TURKANA</option>
+<option value='SIAYA'>SIAYA</option>
+<option value='KISUMU'>KISUMU</option>
+<option value='HOMABAY'>HOMABAY</option>
+<option value='POKOT'>POKOT</option>
+<option value='KAKAMEGA'>KAKAMEGA</option>
+<option value='TRANSZOIA'>TRANSZOIA</option>
+<option value='BUNGOMA'>BUNGOMA</option>
+<option value='KIRINYAGA'>KIRINYAGA</option>
+<option value='EMBU'>EMBU</option>
+<option value='LAMU'>LAMU</option>
+<option value='MOMBASA'>MOMBASA</option>
+<option value='KWALE'>KWALE</option>
+<option value='VIHIGA'>VIHIGA</option>
+";
+?>
