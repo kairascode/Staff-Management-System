@@ -1,1 +1,3 @@
-# Staff -Management-System 
+# Staff -Management-System (SMS)
+The SMS is a reliable, robust, secure and scalable computer information system developed to automate staff management at the National Registration bureau south rift region. It has three modules; the System Admin module to enable management of system users and performance of bulk back end functions such as system back up and SQL reports; the Registry module to enable day to day queries to the system by users as well as data entry; the Regional Coordinator module to enable staff transfers, promotions, leave approvals as well as detachment of staff through retirement and transfer to other regions.
+The system is developed in the PHP environment with apache MYSQL database as well as CSS, JQuery and Javascript styling to ensure responsiveness
